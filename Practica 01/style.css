@@ -9,6 +9,17 @@
     margin: auto;
     margin-top: 35px;
 }
+.sr {
+    padding: 0 18px 18px 18px;
+}
+.sr button {
+    width: 100%;
+    background-color: #48c;
+    color: #fff;
+    font-size: 30px;
+    border: none;
+    padding: 0;
+}
 .teclas{
     display: flex;
 }
